@@ -140,7 +140,9 @@ plt.show()
 ```
 
 # OUTPUT:
-![image](https://github.com/ssnithyaasri/Ex-2--NN/assets/119122478/4958e305-92bc-49c0-a654-f972e4b95b10)
+
+
+![2](https://github.com/ssnithyaasri/Ex-2--NN/assets/119122478/05592237-7976-4968-a98b-29fb33734577)
 
 ![1](https://github.com/ssnithyaasri/Ex-2--NN/assets/119122478/8664dabf-4039-48ed-b354-19191b1da480)
 
